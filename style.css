@@ -13,6 +13,14 @@ p {
   font-family: monospace;
   color:white;
   text-align: center;
+  width: 25%;
+}
+
+i {
+  font-family: monospace;
+  color:white;
+  text-align: center;
+  width: 25%;
 }
 
 a {
