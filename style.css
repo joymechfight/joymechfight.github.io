@@ -19,6 +19,9 @@ a {
   color: red;
   text-decoration: none;
 }
+img {
+  image-rendering: pixelated;
+}
 
 table {
   border-collapse: collapse;
