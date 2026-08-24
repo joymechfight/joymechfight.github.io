@@ -18,11 +18,6 @@ a {
   color: red;
   text-decoration: none;
 }
-img {
-  display: block;
-  margin: auto;
-  width: 15%;
-}
 
 table {
   border-collapse: collapse;
@@ -52,4 +47,9 @@ th {
 }
 .fixed-table {
   table-layout: fixed;
+}
+.banner {
+  display: block;
+  margin: auto;
+  width: 15%;
 }
