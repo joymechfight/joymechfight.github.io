@@ -49,7 +49,10 @@ th {
   table-layout: fixed;
 }
 .stretched-table {
-  display: flex;
-  justify-content: space-between;
-  margin: 0 auto;
+  table-layout: fixed;
+  width: 100%;
+  border: none;
+}
+.stretched-table td {
+  border: none;
 }
