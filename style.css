@@ -26,11 +26,6 @@ a {
   color: red;
   text-decoration: none;
 }
-img {
-  display: block;
-  margin: auto;
-  width: 15%;
-}
 
 table {
   border-collapse: collapse;
@@ -66,4 +61,10 @@ th {
   margin-top: auto;
   text-align: center;
   padding: 20px;
+}
+
+.banner {
+  display: block;
+  margin: auto;
+  width: 15%;
 }
