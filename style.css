@@ -1,13 +1,5 @@
-html, body {
-  height: 100%;
-  margin: 0;
-}
-
 body {
   background-color: black;
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
 }
 
 h1 {
@@ -25,6 +17,11 @@ p {
 a {
   color: red;
   text-decoration: none;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 15%;
 }
 
 table {
@@ -55,17 +52,4 @@ th {
 }
 .fixed-table {
   table-layout: fixed;
-}
-
-.index-link {
-  margin-top: auto;
-  text-align: center;
-  padding: 20px;
-}
-
-.banner {
-  display: block;
-  margin: auto;
-  width: 15%;
-  max-width: 200px;
 }
