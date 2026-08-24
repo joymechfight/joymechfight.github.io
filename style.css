@@ -53,3 +53,8 @@ th {
   margin: auto;
   width: 15%;
 }
+.index-link {
+  text-align: center;
+  padding: 20px;
+  display: block;
+}
