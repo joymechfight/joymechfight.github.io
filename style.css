@@ -51,6 +51,14 @@ th {
 .stretched-table {
   table-layout: fixed;
   width: 100%;
-  border: none;
   border-collapse: collapse;
+}
+
+.stretched-table td {
+  border-left: 1px solid white;
+  padding: 5px;
+}
+
+.stretched-table td:first-child {
+  border-left: none;
 }
