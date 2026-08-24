@@ -48,3 +48,8 @@ th {
 .fixed-table {
   table-layout: fixed;
 }
+.stretched-table {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+}
