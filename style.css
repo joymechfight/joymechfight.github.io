@@ -73,13 +73,14 @@ th {
   text-align: center;
   padding: 20px;
 }
-.icon-row {
+.player {
   display: flex;
+  align-items: center;
   justify-content: center;
-  gap: 4px;
+  gap: 6px;
 }
 
-.icon-row img {
+.player img {
   display: inline-block;
   margin: 0;
 }
