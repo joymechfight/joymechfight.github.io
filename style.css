@@ -73,3 +73,13 @@ th {
   text-align: center;
   padding: 20px;
 }
+.icon-row {
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+}
+
+.icon-row img {
+  display: inline-block;
+  margin: 0;
+}
