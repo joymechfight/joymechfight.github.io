@@ -79,8 +79,17 @@ th {
   justify-content: center;
   gap: 6px;
 }
-
 .player img {
   display: inline-block;
   margin: 0;
+}
+.video-embed {
+  width: 25%;
+  aspect-ratio: 980 / 551;
+  margin: 0 auto;
+}
+
+.video-embed iframe {
+  width: 100%;
+  height: 100%;
 }
